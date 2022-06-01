@@ -129,6 +129,11 @@ body{
     font-weight: 300;
     text-align: justify;
 }
+.img-adopta{
+    width: 700px;
+    height: 500px;
+    padding: 150px;
+}
 /*FOOTER*/
 footer{
     background: #000;
